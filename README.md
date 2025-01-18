@@ -11,4 +11,4 @@ The application provides accurate and reliable SMS predictions, achieving its go
 ## Video Demo
 - view the demo video at the [Link](https://www.youtube.com/watch?v=zcwWFsPM-PM).
 - For more details, you can refer to the 'User Manual.pdf' to learn how to use this application.
-- For more details about this project, please refer to the document available at the following link: [Link](https://www.youtube.com/watch?v=zcwWFsPM-PM](https://drive.google.com/file/d/1zvXA2eje-1mK-at_fmTLg2zNARP6l_rJ/view?usp=sharing).
+- For more details about this project, please refer to the document available at the following link: [Link](https://drive.google.com/file/d/1zvXA2eje-1mK-at_fmTLg2zNARP6l_rJ/view?usp=sharing).
